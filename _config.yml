@@ -1,0 +1,8 @@
+title: Online Diagram Software
+description: jayangshu84.github.io/draw.io/war/index.html
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
